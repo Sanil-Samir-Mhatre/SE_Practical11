@@ -1,1 +1,2 @@
 Version 1.0 - Initial Project Setup
+Version 1.1 - Added new feature
